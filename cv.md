@@ -1,5 +1,6 @@
 # ALEX BURANOK
 
+---
 **Phone:** +375(29)795-67-45 (Telegram, Viber)
 
 **Email:** buranok.alex@gmail.com
@@ -10,9 +11,11 @@
 
 **Github:** https://github.com/atomicsys
 
+---
 ## Objective:
 Applying for a position of a _**Python Developer**_.
 
+---
 ## Web skill set:
 - Python 3, OOP
 - Django framework
@@ -22,10 +25,12 @@ Applying for a position of a _**Python Developer**_.
 - Git
 - Blender, GIMP, Inkscape.
 
+---
 ## Engineering skill set:
 - Mechanical and electromechanical engineering
 - CAD Solidworks, Kompas-3D, AutoCAD.
 
+---
 ### English Proficiency:
 **intermediate** — read technical literature, conduct business correspondence.
 
@@ -37,6 +42,7 @@ Applying for a position of a _**Python Developer**_.
 **IT Academy** (Feb 2020 – May 2020):
 - Python web-applications development.
 
+---
 ## Work experience:
 1. **JSC “Optoelectronic Systems”** (_Leading mechanical engineer_) Mar 2016 – Present.
 #### Responsibilities:
@@ -48,6 +54,7 @@ Applying for a position of a _**Python Developer**_.
 - design of metal structures and electrical products
 - installing and configuring CAD environment.
 
+---
 ## Additional skills:
 - conflict-free experience working in teams up to 10 people on long-term projects
 - ability to apply both proven and non standard solutions
