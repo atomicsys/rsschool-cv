@@ -1,15 +1,11 @@
 # ALEX BURANOK
 
 ---
-**Phone:** +375(29)795-67-45 (Telegram, Viber)
-
-**Email:** buranok.alex@gmail.com
-
-**Skype:** atomicsys2
-
-**LinkedIn:** https://www.linkedin.com/in/alex-buranok
-
-**Github:** https://github.com/atomicsys
+- **Phone:** +375(29)795-67-45 (Telegram, Viber)
+- **Email:** buranok.alex@gmail.com
+- **Skype:** atomicsys2
+- **LinkedIn:** https://www.linkedin.com/in/alex-buranok
+- **Github:** https://github.com/atomicsys
 
 ---
 ## Objective:
@@ -17,22 +13,22 @@ Applying for a position of a _**Python Developer**_.
 
 ---
 ## Web skill set:
-- Python 3, OOP
-- Django framework
-- PostgreSQL, SQLite
+- **Python 3**
+- **Django** framework
+- **PostgreSQL**, SQLite
 - HTML5
 - CSS
-- Git
+- **Git**
 - Blender, GIMP, Inkscape.
 
 ---
 ## Engineering skill set:
 - Mechanical and electromechanical engineering
-- CAD Solidworks, Kompas-3D, AutoCAD.
+- CAD **Solidworks**, Kompas-3D, AutoCAD.
 
 ---
 ### English Proficiency:
-**intermediate** — read technical literature, conduct business correspondence.
+- **intermediate** — read technical literature, conduct business correspondence.
 
 ## Education:
 **Belarusian National Technical University** (2007-2012):
@@ -44,13 +40,19 @@ Applying for a position of a _**Python Developer**_.
 
 ---
 ## Work experience:
-1. **JSC “Optoelectronic Systems”** (_Leading mechanical engineer_) Mar 2016 – Present.
-#### Responsibilities:
+
+#### 1. JSC “Optoelectronic Systems”
+Leading mechanical engineer _(Mar 2016 – Present)_.
+
+Responsibilities:
 - design of precision mechanics, electromechanics
 - conducting design and development work
 - configuring CAD environment, basic network and IP-telephony maintenance.
-2. **RUE “BelEZ”** (_Senior mechanical engineer_) 2014 – 2016.
-#### Responsibilities:
+
+#### 2. RUE “BelEZ”
+Senior mechanical engineer _(2014 – 2016)_.
+
+Responsibilities:
 - design of metal structures and electrical products
 - installing and configuring CAD environment.
 
