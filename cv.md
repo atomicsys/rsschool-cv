@@ -26,10 +26,10 @@ Applying for a position of a _**Python Developer**_.
 - Mechanical and electromechanical engineering
 - CAD **Solidworks**, Kompas-3D, AutoCAD.
 
----
-### English Proficiency:
+## English Proficiency:
 - **intermediate** — read technical literature, conduct business correspondence.
 
+---
 ## Education:
 **Belarusian National Technical University** (2007-2012):
 - Control and Measuring Equipment and Systems.
