@@ -1,0 +1,44 @@
+body  {
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+}
+
+header {
+  height: 8px;
+}
+
+main {
+  width: 70%;
+  margin:auto;
+  padding: 2%;
+
+  background-color: #fff;
+  box-shadow: 2px 2px 4px 2px rgba(0,0,0,0.5);
+}
+
+footer {
+  height: 8px;
+}
+
+hr {
+  border: 1px inset #aaa;
+  margin-left: -2.8%;
+  margin-right: -2.9%;
+}
+
+.main-photo {
+  min-width: 64px;
+  max-width: 20%;
+  height: auto;
+
+  border-radius: 2%;
+  box-shadow: 2px 2px 4px 2px rgba(0,0,0,0.5);
+
+  filter: sepia(50%);
+}
+
+.flex-wrapper {
+  display: flex;
+  justify-content: space-around;
+}
